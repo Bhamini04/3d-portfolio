@@ -5,68 +5,87 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
+          My journey <span>&</span>
           <br /> experience
         </h2>
+
         <div className="career-info">
           <div className="career-timeline">
             <div className="career-dot"></div>
           </div>
+
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Full Stack Developer</h4>
+                <h5>Open to Internships & Opportunities</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Building modern web applications using React, Node.js, Express,
+              MongoDB, Tailwind CSS, and AI integrations. Passionate about
+              creating impactful digital products and immersive user experiences.
             </p>
           </div>
+
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>B.Tech Computer Science</h4>
+                <h5>4th Year Student</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2023–2027</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Pursuing Bachelor of Technology in Computer Science Engineering.
+              Focused on Full Stack Development, Software Engineering, Database
+              Management Systems, and Artificial Intelligence.
             </p>
           </div>
+
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>ChatSphere</h4>
+                <h5>Real-Time Chat Application</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Developed a real-time chat platform using React, Node.js,
+              Socket.io, and MongoDB with support for messaging, media sharing,
+              voice features, and modern UI/UX.
             </p>
           </div>
+
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Meraki Market</h4>
+                <h5>MERN E-Commerce Platform</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Built a full-stack e-commerce platform with user authentication,
+              product management, shopping cart, admin dashboard, and responsive
+              design using the MERN stack.
+            </p>
+          </div>
+
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Synapso AI</h4>
+                <h5>AI Study Companion</h5>
+              </div>
+              <h3>2025</h3>
+            </div>
+            <p>
+              Created an AI-powered study assistant integrating Gemini AI,
+              Firebase Authentication, PDF analysis, and intelligent learning
+              workflows for students.
             </p>
           </div>
         </div>

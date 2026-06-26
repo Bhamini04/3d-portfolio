@@ -85,25 +85,34 @@ const WhatIDo = () => {
               </svg>
             </div>
             <div className="what-corner"></div>
+<div className="what-content-in">
+  <h3>FULL STACK & AI DEVELOPMENT</h3>
+  <h4>Building Real-World Digital Products</h4>
 
-            <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
-              <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
-              </p>
-              <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
-              </div>
-              <div className="what-arrow"></div>
-            </div>
+  <p>
+    Computer Science Engineering student passionate about developing
+    innovative web applications, AI-powered solutions, and interactive
+    digital experiences. I enjoy turning creative ideas into impactful
+    products using modern technologies.
+  </p>
+
+  <h5>Technologies & Expertise</h5>
+
+  <div className="what-content-flex">
+    <div className="what-tags">React.js</div>
+    <div className="what-tags">Node.js</div>
+    <div className="what-tags">Express.js</div>
+    <div className="what-tags">MongoDB</div>
+    <div className="what-tags">Gemini AI</div>
+    <div className="what-tags">Firebase</div>
+    <div className="what-tags">Three.js</div>
+    <div className="what-tags">Tailwind CSS</div>
+    <div className="what-tags">REST APIs</div>
+    <div className="what-tags">Git & GitHub</div>
+  </div>
+
+  <div className="what-arrow"></div>
+</div>
           </div>
           <div
             className="what-content what-noTouch"
@@ -124,28 +133,39 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
-              <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
-              </p>
-              <h5>Skillset & tools</h5>
-              <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+             <h3>CREATIVE DESIGN & BRANDING</h3>
+<h4>Transforming Ideas into Visual Stories</h4>
+
+<p>
+  I create visually compelling designs that blend creativity with purpose.
+  From event posters and social media campaigns to modern UI/UX concepts and
+  branding materials, I focus on delivering designs that are both engaging
+  and impactful. My goal is to craft experiences.
+</p>
+
+<h5>Design Expertise</h5>
+
+<div className="what-content-flex">
+  <div className="what-tags">Graphic Design</div>
+  <div className="what-tags">UI/UX Design</div>
+  <div className="what-tags">Event Posters</div>
+  <div className="what-tags">GDG Creatives</div>
+  <div className="what-tags">Social Media Design</div>
+  <div className="what-tags">Brand Identity</div>
+  <div className="what-tags">Figma</div>
+  <div className="what-tags">Canva</div>
+  <div className="what-tags">Adobe Photoshop</div>
+  <div className="what-tags">Visual Storytelling</div>
+</div>
+
               </div>
               <div className="what-arrow"></div>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    
+
   );
 };
 
