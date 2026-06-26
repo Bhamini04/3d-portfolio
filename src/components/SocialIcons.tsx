@@ -2,8 +2,9 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedinIn,
-  FaYoutube,
 } from "react-icons/fa6";
+import { SiLeetcode } 
+from "react-icons/si";
 import "./styles/SocialIcons.css";
 import { TbNotes } from "react-icons/tb";
 import { useEffect } from "react";
@@ -79,16 +80,16 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.youtube.com/@Leftbraincoder"
+            href="https://leetcode.com/u/Bhamini_Tiwari/"
             target="_blank"
             rel="noreferrer"
           >
-            <FaYoutube />
+            <SiLeetcode />
           </a>
         </span>
         <span>
           <a
-            href="https://www.instagram.com/leftbraincoder/"
+            href="https://www.instagram.com/bhamini04?igsh=MXByY2pvODJnOXN5cQ=="
             target="_blank"
             rel="noreferrer"
           >
