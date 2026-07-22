@@ -10,6 +10,13 @@ const projects = [
     image: "/images/meraki-market.png",
     link: "https://meraki-market-1.onrender.com/",
   },
+  {
+    title: "Synapso AI Study Companion",
+    category: "AI Learning Platform",
+    tools: "Gemini AI, Firebase, PDF Analysis, Smart Learning",
+    image: "/images/synapso.png",
+    link: "https://synapso-chi.vercel.app/",
+  },
    {
     title: "Design Portfolio",
     category: "Creative Design Showcase",
