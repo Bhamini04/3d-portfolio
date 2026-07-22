@@ -17,6 +17,13 @@ const projects = [
     image: "/images/synapso.png",
     link: "https://synapso-chi.vercel.app/",
   },
+  {
+    title: "Resume-Sage",
+    category: "React,Vite ,JavaScript, Tailwind CSS ,Google Gemini API ,PDF Processing ,GitHub",
+    tools: "Gemini AI, Firebase, PDF Analysis, Smart Learning",
+    image: "/images/resume.png",
+    link: "https://resume-sage-inky.vercel.app/",
+  },
    {
     title: "Design Portfolio",
     category: "Creative Design Showcase",
